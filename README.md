@@ -18,7 +18,7 @@ https://diannejardinez.github.io/Front-End-Development/Bontanical_Garden/botanic
 ---
 
 ### Bootstrap 4 - Level: Medium
-**Museum Of_Plants**
+**Museum Of Plants**
 
 **Webpage:** 
 https://diannejardinez.github.io/Front-End-Development/Museum_Of_Plants/mop.html
