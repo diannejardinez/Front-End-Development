@@ -1,8 +1,8 @@
 # Front End Development Project Webpage
 
 
-### Bootstrap 3 - Level: Easy
-#### Photo Gallery
+### Photo Gallery
+#### Bootstrap 3 - Level: Easy
 
 **Webpage:** 
 https://diannejardinez.github.io/Front-End-Development/Photo_Gallery/photo_gallery.html
