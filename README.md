@@ -3,13 +3,19 @@
 
 ### Bootstrap 3 - Level: Easy
 **Photo_Gallery**
-**Webpage:** https://diannejardinez.github.io/Front-End-Development/Photo_Gallery/photo_gallery.html
+
+**Webpage:** 
+https://diannejardinez.github.io/Front-End-Development/Photo_Gallery/photo_gallery.html
 
 ### Bootstrap 4 - Level: Easy
 **Bontanical Garden**
-**Webpage:** https://diannejardinez.github.io/Front-End-Development/Bontanical_Garden/botanical_garden.html
+
+**Webpage:** 
+https://diannejardinez.github.io/Front-End-Development/Bontanical_Garden/botanical_garden.html
 
 
-### Bootstrap 4 - Level: Medium
-**Museum_Of_Plants**
-**Webpage:** https://diannejardinez.github.io/Front-End-Development/Museum_Of_Plants/mop.html
+### Bootstr p 4 - Level: Medium
+**Museum Of_Plants**
+
+**Webpage:** 
+https://diannejardinez.github.io/Front-End-Development/Museum_Of_Plants/mop.html
