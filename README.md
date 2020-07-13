@@ -24,7 +24,7 @@ https://diannejardinez.github.io/Front-End-Development/Bontanical_Garden/botanic
 ### Bootstrap 4 - Level: Medium
 **Museum Of Plants**
 
-Objective: Webpage with Bootstrap 4 HTML/CSS, Javascript Webpage. Using Grid system and Flexbox Utilities.
+Objective: Responsive Webpage with Bootstrap 4 HTML/CSS, Javascript Webpage. Using Grid system and Flexbox Utilities.
 
 **Webpage:** 
 https://diannejardinez.github.io/Front-End-Development/Museum_Of_Plants/mop.html
